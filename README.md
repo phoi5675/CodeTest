@@ -9,7 +9,7 @@ Repository for preparing coding test
 | ------------------------------------------------------- | ------------------------------- |
 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460)      | [13460.py](./Python/13460.py)   |
 | [2048(Easy)](https://www.acmicpc.net/problem/12100)     | [12100.py](./Python/12100.py)   |
-| [시험 감독](https://www.acmicpc.net/problem/3190)         | [13458.py](./Python/13458.py)   |
+| [시험 감독](https://www.acmicpc.net/problem/13458)         | [13458.py](./Python/13458.py)   |
 | [주사위 굴리기](https://www.acmicpc.net/problem/14499)     | [14499.py](./Python/14499.py)   |
 | [퇴사](https://www.acmicpc.net/problem/14501)            | [14501.py](./Python/14501.py)   |
 | [로봇청소기](https://www.acmicpc.net/problem/14503)        | [14503.py](./Python/14503.py)   |

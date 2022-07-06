@@ -27,3 +27,4 @@ Repository for preparing coding test
 | [보물](https://www.acmicpc.net/problem/1026)          | [1026.py](./Python/1026.py)   |
 | [가르침](https://www.acmicpc.net/problem/1062)         | [1062.py](./Python/1062.py)   |
 | [킹](https://www.acmicpc.net/problem/1063)           | [1063.py](./Python/1063.py)   |
+| [Z](https://www.acmicpc.net/problem/1074)           | [1074.py](./Python/1074.py)   |

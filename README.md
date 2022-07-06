@@ -24,3 +24,5 @@ Repository for preparing coding test
 | [낙시왕](https://www.acmicpc.net/problem/17143)        | [17143.py](./Python/17143.py) |
 | [캐슬 디펜스](https://www.acmicpc.net/problem/17135)     | [17135.py](./Python/17135.py) |
 | [색종이 붙이기](https://www.acmicpc.net/problem/17136)    | [17136.py](./Python/17136.py) |
+| [보물](https://www.acmicpc.net/problem/1026)          | [1026.py](./Python/1026.py)   |
+| [가르침](https://www.acmicpc.net/problem/1062)         | [1062.py](./Python/1062.py)   |

@@ -29,3 +29,4 @@ Repository for preparing coding test
 | [킹](https://www.acmicpc.net/problem/1063)           | [1063.py](./Python/1063.py)   |
 | [Z](https://www.acmicpc.net/problem/1074)           | [1074.py](./Python/1074.py)   |
 | [괄호 추가하기](https://www.acmicpc.net/problem/16637)    | [16637.py](./Python/16637.py) |
+| [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)  | [17070.py](./Python/17070.py) |

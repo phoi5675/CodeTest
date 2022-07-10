@@ -32,3 +32,4 @@ Repository for preparing coding test
 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)  | [17070.py](./Python/17070.py) |
 | [⚾](https://www.acmicpc.net/problem/17281)          | [17281.py](./Python/17281.py) |
 | [배열 돌리기 4](https://www.acmicpc.net/problem/17406)   | [17406.py](./Python/17406.py) |
+| [게리맨더링](https://www.acmicpc.net/problem/17471)      | [17471.py](./Python/17471.py) |

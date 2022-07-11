@@ -35,3 +35,4 @@ Repository for preparing coding test
 | [게리맨더링](https://www.acmicpc.net/problem/17471)      | [17471.py](./Python/17471.py) |
 | [다리 만들기 2](https://www.acmicpc.net/problem/17472)   | [17472.py](./Python/17472.py) |
 | [달리기](https://www.acmicpc.net/problem/16930)        | [16930.py](./Python/16930.py) |
+| [A → B](https://www.acmicpc.net/problem/16953)      | [16953.py](./Python/16953.py) |

@@ -38,3 +38,4 @@ Repository for preparing coding test
 | [A → B](https://www.acmicpc.net/problem/16953)         | [16953.py](./Python/16953.py) |
 | [점프](https://www.acmicpc.net/problem/1890)             | [1890.py](./Python/1890.py)   |
 | [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) | [15989.py](./Python/15989.py) |
+| [기타리스트](https://www.acmicpc.net/problem/1495)          | [1495.py](./Python/1495.py)   |

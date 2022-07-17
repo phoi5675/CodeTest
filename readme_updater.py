@@ -32,8 +32,8 @@ if __name__ == '__main__':
     table = []
     for content in table_contents:
         platform, level, prob_dir, prob, readme, code_file = content
-        prob_path = './{0}/{1}/{2}'.format(platform, level, prob_dir).replace('\u2005', '%20')
-        code_path = prob_path + '/' + code_file.replace(' ', '%20')
+        prob_path = './{0}/{1}/{2}'.format(platform, level, prob_dir).replace('\u2005', '%E2%80%85')
+        code_path = prob_path + '/' + code_file.replace(' ', '%E2%80%85')
         table.append(f'|{platform}|{level}|{prob}|[README.md]({prob_path}/{readme}) \
             |[{code_file}]({code_path})|')
 

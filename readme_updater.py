@@ -1,4 +1,5 @@
 import os
+from typing import *
 
 PLATFORMS = ['백준', '프로그래머스']
 README_PREFIX = \
@@ -10,12 +11,12 @@ Repository for preparing coding test
 Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)
 # List of problems
 
-| Platform | Level | Title | Description | code |
-|----------|-------|-------|-------------|------|
+| Platform | Level | Title | code |
+|----------|-------|-------|------|
 '''
 if __name__ == '__main__':
 
-    table_contents = []
+    table_contents: List[List[str]] = []
     for platform in PLATFORMS:
         levels = os.listdir('./' + platform)
         for level in levels:
@@ -34,8 +35,9 @@ if __name__ == '__main__':
         platform, level, prob_dir, prob, readme, code_file = content
         prob_path = './{0}/{1}/{2}'.format(platform, level, prob_dir).replace('\u2005', '%E2%80%85')
         code_path = prob_path + '/' + code_file.replace(' ', '%E2%80%85')
-        table.append(f'|{platform}|{level}|{prob}|[README.md]({prob_path}/{readme}) \
-            |[{code_file}]({code_path})|')
+        table.append(f'|{platform}|{level}|[{prob}]({prob_path}/{readme}) \
+            |[<img src=./icons/{code_file[code_file.rfind(".") + 1:]}.png width="20" height="20" alt="{code_file}" />]'
+                     f'({code_path})|')
 
     with open('./README.md', 'w') as readme:
         readme.write(README_PREFIX)

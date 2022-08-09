@@ -6,6 +6,7 @@ from itertools import combinations
 VEC = ((-1, 0), (1, 0), (0, 1), (0, -1))
 CLASS_SIZE = 5
 MEMBER_LIMIT = 7
+EMPTY, EDGE, VISITED = 0, 1, 2
 res = 0
 
 if __name__ == '__main__':
@@ -26,7 +27,9 @@ if __name__ == '__main__':
         Q = deque()
         Q.append(members[0])
         connected = 0
-        visited[members[0][0]][members[0][1]] = True
+        for y, x in members:
+            visited[y][x] = EDGE
+        visited[members[0][0]][members[0][1]] = VISITED
 
         while Q:
             y, x = Q.popleft()
@@ -36,13 +39,13 @@ if __name__ == '__main__':
 
             for dy, dx in VEC:
                 ny, nx = y + dy, x + dx
-                if 0 <= ny < CLASS_SIZE and 0 <= nx < CLASS_SIZE and not visited[ny][nx] and (ny, nx) in members:
-                    visited[ny][nx] = True
+                if 0 <= ny < CLASS_SIZE and 0 <= nx < CLASS_SIZE and visited[ny][nx] == EDGE:
+                    visited[ny][nx] = VISITED
                     Q.append((ny, nx))
                     connected += 1
 
     classroom: List[List[str]] = []
-    visited: List[List[bool]] = [[False] * CLASS_SIZE for _ in range(CLASS_SIZE)]
+    visited: List[List[int]] = [[EMPTY] * CLASS_SIZE for _ in range(CLASS_SIZE)]
     _visited = deepcopy(visited)
     for _ in range(CLASS_SIZE):
         classroom.append(list(input()))

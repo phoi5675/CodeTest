@@ -17,11 +17,8 @@ if __name__ == '__main__':
                 space[ny][nx] = island_num
                 dfs(ny, nx, island_num)
 
-    def bfs(y: int, x: int) -> None:
-        cur_minimum_len = bridges[space[y][x]]
-        Q = deque()
-        Q.append((y, x, 0))
-        visited[y][x] = True
+    def bfs(Q: Deque, island_idx: int) -> None:
+        cur_minimum_len = bridges[island_idx]
 
         while Q:
             _y, _x, moves = Q.popleft()
@@ -34,8 +31,8 @@ if __name__ == '__main__':
                     if space[ny][nx] == SEA:
                         visited[ny][nx] = True
                         Q.append((ny, nx, moves + 1))
-                    elif space[ny][nx] != SEA and space[y][x] != space[ny][nx]:
-                        bridges[space[y][x]] = min(bridges[space[y][x]], moves)
+                    elif space[ny][nx] != SEA and island_idx != space[ny][nx]:
+                        bridges[island_idx] = min(bridges[island_idx], moves)
                         bridges[space[ny][nx]] = min(bridges[space[ny][nx]], moves)
                         return
 
@@ -67,11 +64,17 @@ if __name__ == '__main__':
                 dfs(i, j, num_of_islands)
 
     bridges: List[int] = [INF] * (num_of_islands + 1)
+    Q = deque()
     # Make bridges
-    for i in range(n):
-        for j in range(n):
-            if space[i][j] and is_near_sea(i, j):
-                visited = deepcopy(_visited)
-                bfs(i, j)
+    for island_idx in range(1, num_of_islands + 1):
+        visited = deepcopy(_visited)
+        Q.clear()
+        for i in range(n):
+            for j in range(n):
+                if space[i][j] == island_idx:
+                    visited[i][j] = True
+                    Q.append((i, j, 0))
+
+        bfs(Q, island_idx)
 
     print(min(bridges))

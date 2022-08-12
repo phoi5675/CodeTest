@@ -13,13 +13,8 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 | Platform | Level | Title | Code |
 |----------|-------|-------|------|
 '''
-STYLES = \
-    '''<style>
-img{
-    width: 20px;
-    height: 20px;
-}
-</style>'''
+IMG_STYLE = 'width="20" height="20"'
+
 if __name__ == '__main__':
 
     table_contents: List[List[str]] = []
@@ -40,12 +35,11 @@ if __name__ == '__main__':
     for content in table_contents:
         platform, level, prob_dir, prob, readme, code_files = content
         prob_path = './{0}/{1}/{2}'.format(platform, level, prob_dir).replace('\u2005', '%E2%80%85')
-        code_file_tags = [f'[<img src=./icons/{c[c.rfind(".") + 1:]}.png alt="{c}" />]' \
+        code_file_tags = [f'[<img src=./icons/{c[c.rfind(".") + 1:]}.png {IMG_STYLE} alt="{c}" />]' \
                           f'({prob_path + "/" + c.replace(" ", "%E2%80%85")})' for c in code_files]
         table.append(f'|{platform}|{level}|[{prob}]({prob_path}/{readme}) \
             |{" ".join(code_file_tags)}|')
 
     with open('./README.md', 'w') as readme:
-        readme.write(STYLES)
         readme.write(README_PREFIX)
         readme.write('\n'.join(table))

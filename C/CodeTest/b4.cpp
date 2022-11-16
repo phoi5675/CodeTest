@@ -45,8 +45,13 @@ int main()
     int y = 0, x = 0;
     map[y][x] = ROB;
     bool moveable = true;
+    int failed = 0;
     while (moveable)
     {
+        if (failed >= 4)
+        {
+            break;
+        }
         int v_idx = dirseq[dir];
         int dy = vec[v_idx][0], dx = vec[v_idx][1];
         int ny = y + dy, nx = x + dx;
@@ -63,10 +68,12 @@ int main()
                 y = ny;
                 x = nx;
                 ans++;
+                failed = 0;
             }
             else if (map[ny][nx] == OBS)
             {
                 dir = change_vec(dir);
+                failed++;
             }
             else if (map[ny][nx] == ROB)
             {
@@ -78,6 +85,7 @@ int main()
         else
         {
             dir = change_vec(dir);
+            failed++;
         }
     }
 

@@ -12,6 +12,8 @@ int N;
 int grids[MAXN + 10][MAXN + 10];
 bool visited[MAXN + 10][MAXN + 10];
 const int dt[][2] = {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
+int minimum_area;
+int area_threshold;
 typedef struct _node
 {
     _node(int y, int x) : y(y), x(x) {};
@@ -58,13 +60,24 @@ int bfs(int y, int x, int tractor)
 int traverse(int tractor)
 {
     int covered = 0;
+    int searched = 0;
     for (int i = 0; i < N; i++)
     {
         for (int j = 0; j < N; j++)
         {
             if (!visited[i][j])
             {
-                covered = max(covered, bfs(i, j, tractor));
+                covered = bfs(i, j, tractor);
+                if (covered >= minimum_area)
+                {
+                    return covered;
+                }
+                searched += covered;
+            }
+            // 최소 넓이보다 더 많이 탐색한 경우, 탐색 의미 없으므로 리턴
+            if (searched > area_threshold)
+            {
+                return -1;
             }
         }
     }
@@ -101,7 +114,8 @@ int main()
     InputData(); // 입력받는 부분
 
     // 여기서부터 작성
-    int minimum_area = ((N * N) / 2) + ((N * N) % 2);
+    minimum_area = ((N * N) / 2) + ((N * N) % 2);
+    area_threshold = (N * N) - minimum_area;
     ans = search(minimum_area);
     cout << ans << endl; // 출력하는 부분
     return 0;

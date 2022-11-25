@@ -10,6 +10,7 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Bronze|[A＋B](./백준/Bronze/1000.%E2%80%85A＋B/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="A＋B.c" />](./백준/Bronze/1000.%E2%80%85A＋B/A＋B.c)|
 |백준|Bronze|[수 정렬하기 3](./백준/Bronze/10989.%E2%80%85수%E2%80%85정렬하기%E2%80%853/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="수 정렬하기 3.java" />](./백준/Bronze/10989.%E2%80%85수%E2%80%85정렬하기%E2%80%853/수%E2%80%85정렬하기%E2%80%853.java)|
 |백준|Bronze|[ACM 호텔](./백준/Bronze/10250.%E2%80%85ACM%E2%80%85호텔/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="ACM 호텔.java" />](./백준/Bronze/10250.%E2%80%85ACM%E2%80%85호텔/ACM%E2%80%85호텔.java)|
+|백준|Bronze|[주사위 게임](./백준/Bronze/5566.%E2%80%85주사위%E2%80%85게임/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="주사위 게임.py" />](./백준/Bronze/5566.%E2%80%85주사위%E2%80%85게임/주사위%E2%80%85게임.py)|
 |백준|Bronze|[부녀회장이 될테야](./백준/Bronze/2775.%E2%80%85부녀회장이%E2%80%85될테야/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="부녀회장이 될테야.java" />](./백준/Bronze/2775.%E2%80%85부녀회장이%E2%80%85될테야/부녀회장이%E2%80%85될테야.java)|
 |백준|Bronze|[Hello World](./백준/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="Hello World.c" />](./백준/Bronze/2557.%E2%80%85Hello%E2%80%85World/Hello%E2%80%85World.c)|
 |백준|Bronze|[블랙잭](./백준/Bronze/2798.%E2%80%85블랙잭/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="블랙잭.java" />](./백준/Bronze/2798.%E2%80%85블랙잭/블랙잭.java)|
@@ -28,6 +29,7 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Bronze|[분수찾기](./백준/Bronze/1193.%E2%80%85분수찾기/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="분수찾기.java" />](./백준/Bronze/1193.%E2%80%85분수찾기/분수찾기.java)|
 |백준|Bronze|[시험 감독](./백준/Bronze/13458.%E2%80%85시험%E2%80%85감독/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="시험 감독.py" />](./백준/Bronze/13458.%E2%80%85시험%E2%80%85감독/시험%E2%80%85감독.py)|
 |백준|Bronze|[피보나치 수 5](./백준/Bronze/10870.%E2%80%85피보나치%E2%80%85수%E2%80%855/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="피보나치 수 5.c" />](./백준/Bronze/10870.%E2%80%85피보나치%E2%80%85수%E2%80%855/피보나치%E2%80%85수%E2%80%855.c)|
+|백준|Bronze|[사칙연산](./백준/Bronze/10869.%E2%80%85사칙연산/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="사칙연산.py" />](./백준/Bronze/10869.%E2%80%85사칙연산/사칙연산.py)|
 |백준|Bronze|[직사각형에서 탈출](./백준/Bronze/1085.%E2%80%85직사각형에서%E2%80%85탈출/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="직사각형에서 탈출.java" />](./백준/Bronze/1085.%E2%80%85직사각형에서%E2%80%85탈출/직사각형에서%E2%80%85탈출.java)|
 |백준|Bronze|[최소， 최대](./백준/Bronze/10818.%E2%80%85최소，%E2%80%85최대/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="최소， 최대.py" />](./백준/Bronze/10818.%E2%80%85최소，%E2%80%85최대/최소，%E2%80%85최대.py)|
 |백준|Bronze|[손익분기점](./백준/Bronze/1712.%E2%80%85손익분기점/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="손익분기점.java" />](./백준/Bronze/1712.%E2%80%85손익분기점/손익분기점.java)|
@@ -35,6 +37,7 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Bronze|[약수 구하기](./백준/Bronze/2501.%E2%80%85약수%E2%80%85구하기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="약수 구하기.py" />](./백준/Bronze/2501.%E2%80%85약수%E2%80%85구하기/약수%E2%80%85구하기.py)|
 |백준|Bronze|[큰 수 A＋B](./백준/Bronze/10757.%E2%80%85큰%E2%80%85수%E2%80%85A＋B/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="큰 수 A＋B.py" />](./백준/Bronze/10757.%E2%80%85큰%E2%80%85수%E2%80%85A＋B/큰%E2%80%85수%E2%80%85A＋B.py)|
 |백준|Bronze|[A／B](./백준/Bronze/1008.%E2%80%85A／B/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="A／B.c" />](./백준/Bronze/1008.%E2%80%85A／B/A／B.c)|
+|백준|Silver|[섬의 개수](./백준/Silver/4963.%E2%80%85섬의%E2%80%85개수/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="섬의 개수.py" />](./백준/Silver/4963.%E2%80%85섬의%E2%80%85개수/섬의%E2%80%85개수.py)|
 |백준|Silver|[소수](./백준/Silver/2581.%E2%80%85소수/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="소수.java" />](./백준/Silver/2581.%E2%80%85소수/소수.java)|
 |백준|Silver|[터렛](./백준/Silver/1002.%E2%80%85터렛/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="터렛.java" />](./백준/Silver/1002.%E2%80%85터렛/터렛.java)|
 |백준|Silver|[퇴사 2](./백준/Silver/15486.%E2%80%85퇴사%E2%80%852/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="퇴사 2.py" />](./백준/Silver/15486.%E2%80%85퇴사%E2%80%852/퇴사%E2%80%852.py)|
@@ -80,6 +83,7 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Silver|[시그널](./백준/Silver/16113.%E2%80%85시그널/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="시그널.py" />](./백준/Silver/16113.%E2%80%85시그널/시그널.py)|
 |백준|Silver|[미로 만들기](./백준/Silver/1347.%E2%80%85미로%E2%80%85만들기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="미로 만들기.py" />](./백준/Silver/1347.%E2%80%85미로%E2%80%85만들기/미로%E2%80%85만들기.py)|
 |백준|Silver|[소수 구하기](./백준/Silver/1929.%E2%80%85소수%E2%80%85구하기/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="소수 구하기.java" />](./백준/Silver/1929.%E2%80%85소수%E2%80%85구하기/소수%E2%80%85구하기.java)|
+|백준|Silver|[맥주 마시면서 걸어가기](./백준/Silver/9205.%E2%80%85맥주%E2%80%85마시면서%E2%80%85걸어가기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="맥주 마시면서 걸어가기.py" />](./백준/Silver/9205.%E2%80%85맥주%E2%80%85마시면서%E2%80%85걸어가기/맥주%E2%80%85마시면서%E2%80%85걸어가기.py)|
 |백준|Silver|[BOJ 거리](./백준/Silver/12026.%E2%80%85BOJ%E2%80%85거리/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="BOJ 거리.py" />](./백준/Silver/12026.%E2%80%85BOJ%E2%80%85거리/BOJ%E2%80%85거리.py)|
 |백준|Silver|[N과 M （1）](./백준/Silver/15649.%E2%80%85N과%E2%80%85M%E2%80%85（1）/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="N과 M （1）.c" />](./백준/Silver/15649.%E2%80%85N과%E2%80%85M%E2%80%85（1）/N과%E2%80%85M%E2%80%85（1）.c)|
 |백준|Silver|[1， 2， 3 더하기 4](./백준/Silver/15989.%E2%80%851，%E2%80%852，%E2%80%853%E2%80%85더하기%E2%80%854/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="1， 2， 3 더하기 4.py" />](./백준/Silver/15989.%E2%80%851，%E2%80%852，%E2%80%853%E2%80%85더하기%E2%80%854/1，%E2%80%852，%E2%80%853%E2%80%85더하기%E2%80%854.py)|
@@ -88,11 +92,14 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Silver|[N과 M （3）](./백준/Silver/15651.%E2%80%85N과%E2%80%85M%E2%80%85（3）/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="N과 M （3）.c" />](./백준/Silver/15651.%E2%80%85N과%E2%80%85M%E2%80%85（3）/N과%E2%80%85M%E2%80%85（3）.c)|
 |백준|Silver|[나이순 정렬](./백준/Silver/10814.%E2%80%85나이순%E2%80%85정렬/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="나이순 정렬.java" />](./백준/Silver/10814.%E2%80%85나이순%E2%80%85정렬/나이순%E2%80%85정렬.java)|
 |백준|Silver|[소트인사이드](./백준/Silver/1427.%E2%80%85소트인사이드/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="소트인사이드.java" />](./백준/Silver/1427.%E2%80%85소트인사이드/소트인사이드.java)|
+|백준|Silver|[나이트의 이동](./백준/Silver/7562.%E2%80%85나이트의%E2%80%85이동/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="나이트의 이동.py" />](./백준/Silver/7562.%E2%80%85나이트의%E2%80%85이동/나이트의%E2%80%85이동.py)|
 |백준|Silver|[체스판 다시 칠하기](./백준/Silver/1018.%E2%80%85체스판%E2%80%85다시%E2%80%85칠하기/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="체스판 다시 칠하기.java" />](./백준/Silver/1018.%E2%80%85체스판%E2%80%85다시%E2%80%85칠하기/체스판%E2%80%85다시%E2%80%85칠하기.java)|
 |백준|Silver|[소수 찾기](./백준/Silver/1978.%E2%80%85소수%E2%80%85찾기/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="소수 찾기.java" />](./백준/Silver/1978.%E2%80%85소수%E2%80%85찾기/소수%E2%80%85찾기.java)|
 |백준|Silver|[설탕 배달](./백준/Silver/2839.%E2%80%85설탕%E2%80%85배달/README.md)             |[<img src=./icons/java.png width="20" height="20" alt="설탕 배달.java" />](./백준/Silver/2839.%E2%80%85설탕%E2%80%85배달/설탕%E2%80%85배달.java)|
 |백준|Silver|[포도주 시식](./백준/Silver/2156.%E2%80%85포도주%E2%80%85시식/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="포도주 시식.py" />](./백준/Silver/2156.%E2%80%85포도주%E2%80%85시식/포도주%E2%80%85시식.py)|
 |백준|Silver|[잃어버린 괄호](./백준/Silver/1541.%E2%80%85잃어버린%E2%80%85괄호/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="잃어버린 괄호.c" />](./백준/Silver/1541.%E2%80%85잃어버린%E2%80%85괄호/잃어버린%E2%80%85괄호.c)|
+|백준|Silver|[촌수계산](./백준/Silver/2644.%E2%80%85촌수계산/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="촌수계산.py" />](./백준/Silver/2644.%E2%80%85촌수계산/촌수계산.py)|
+|백준|Gold|[Tractor](./백준/Gold/5846.%E2%80%85Tractor/README.md)             |[<img src=./icons/cc.png width="20" height="20" alt="Tractor.cc" />](./백준/Gold/5846.%E2%80%85Tractor/Tractor.cc)|
 |백준|Gold|[신기한 소수](./백준/Gold/2023.%E2%80%85신기한%E2%80%85소수/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="신기한 소수.py" />](./백준/Gold/2023.%E2%80%85신기한%E2%80%85소수/신기한%E2%80%85소수.py)|
 |백준|Gold|[게임](./백준/Gold/1103.%E2%80%85게임/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="게임.py" />](./백준/Gold/1103.%E2%80%85게임/게임.py)|
 |백준|Gold|[행렬 곱셈 순서](./백준/Gold/11049.%E2%80%85행렬%E2%80%85곱셈%E2%80%85순서/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="행렬 곱셈 순서.py" />](./백준/Gold/11049.%E2%80%85행렬%E2%80%85곱셈%E2%80%85순서/행렬%E2%80%85곱셈%E2%80%85순서.py)|
@@ -111,8 +118,10 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Gold|[드래곤 커브](./백준/Gold/15685.%E2%80%85드래곤%E2%80%85커브/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="드래곤 커브.py" />](./백준/Gold/15685.%E2%80%85드래곤%E2%80%85커브/드래곤%E2%80%85커브.py)|
 |백준|Gold|[배열 돌리기 4](./백준/Gold/17406.%E2%80%85배열%E2%80%85돌리기%E2%80%854/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="배열 돌리기 4.py" />](./백준/Gold/17406.%E2%80%85배열%E2%80%85돌리기%E2%80%854/배열%E2%80%85돌리기%E2%80%854.py)|
 |백준|Gold|[수영장 만들기](./백준/Gold/1113.%E2%80%85수영장%E2%80%85만들기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="수영장 만들기.py" />](./백준/Gold/1113.%E2%80%85수영장%E2%80%85만들기/수영장%E2%80%85만들기.py) [<img src=./icons/c.png width="20" height="20" alt="수영장 만들기.c" />](./백준/Gold/1113.%E2%80%85수영장%E2%80%85만들기/수영장%E2%80%85만들기.c)|
+|백준|Gold|[토마토](./백준/Gold/7576.%E2%80%85토마토/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="토마토.py" />](./백준/Gold/7576.%E2%80%85토마토/토마토.py)|
 |백준|Gold|[미네랄](./백준/Gold/2933.%E2%80%85미네랄/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="미네랄.py" />](./백준/Gold/2933.%E2%80%85미네랄/미네랄.py)|
 |백준|Gold|[빙산](./백준/Gold/2573.%E2%80%85빙산/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="빙산.py" />](./백준/Gold/2573.%E2%80%85빙산/빙산.py)|
+|백준|Gold|[열쇠](./백준/Gold/9328.%E2%80%85열쇠/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="열쇠.py" />](./백준/Gold/9328.%E2%80%85열쇠/열쇠.py)|
 |백준|Gold|[평범한 배낭](./백준/Gold/12865.%E2%80%85평범한%E2%80%85배낭/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="평범한 배낭.py" />](./백준/Gold/12865.%E2%80%85평범한%E2%80%85배낭/평범한%E2%80%85배낭.py)|
 |백준|Gold|[달이 차오른다， 가자．](./백준/Gold/1194.%E2%80%85달이%E2%80%85차오른다，%E2%80%85가자．/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="달이 차오른다， 가자．.py" />](./백준/Gold/1194.%E2%80%85달이%E2%80%85차오른다，%E2%80%85가자．/달이%E2%80%85차오른다，%E2%80%85가자．.py)|
 |백준|Gold|[2048 （Easy）](./백준/Gold/12100.%E2%80%852048%E2%80%85（Easy）/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="2048 （Easy）.py" />](./백준/Gold/12100.%E2%80%852048%E2%80%85（Easy）/2048%E2%80%85（Easy）.py)|
@@ -123,12 +132,15 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Gold|[벽 부수고 이동하기](./백준/Gold/2206.%E2%80%85벽%E2%80%85부수고%E2%80%85이동하기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="벽 부수고 이동하기.py" />](./백준/Gold/2206.%E2%80%85벽%E2%80%85부수고%E2%80%85이동하기/벽%E2%80%85부수고%E2%80%85이동하기.py)|
 |백준|Gold|[이모티콘](./백준/Gold/14226.%E2%80%85이모티콘/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="이모티콘.py" />](./백준/Gold/14226.%E2%80%85이모티콘/이모티콘.py)|
 |백준|Gold|[치즈](./백준/Gold/2638.%E2%80%85치즈/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="치즈.py" />](./백준/Gold/2638.%E2%80%85치즈/치즈.py)|
+|백준|Gold|[연결](./백준/Gold/5022.%E2%80%85연결/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="연결.py" />](./백준/Gold/5022.%E2%80%85연결/연결.py)|
 |백준|Gold|[Puyo Puyo](./백준/Gold/11559.%E2%80%85Puyo%E2%80%85Puyo/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="Puyo Puyo.py" />](./백준/Gold/11559.%E2%80%85Puyo%E2%80%85Puyo/Puyo%E2%80%85Puyo.py)|
 |백준|Gold|[아기 상어](./백준/Gold/16236.%E2%80%85아기%E2%80%85상어/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="아기 상어.py" />](./백준/Gold/16236.%E2%80%85아기%E2%80%85상어/아기%E2%80%85상어.py)|
 |백준|Gold|[마피아](./백준/Gold/1079.%E2%80%85마피아/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="마피아.c" />](./백준/Gold/1079.%E2%80%85마피아/마피아.c)|
 |백준|Gold|[테트로미노](./백준/Gold/14500.%E2%80%85테트로미노/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="테트로미노.c" />](./백준/Gold/14500.%E2%80%85테트로미노/테트로미노.c) [<img src=./icons/py.png width="20" height="20" alt="테트로미노.py" />](./백준/Gold/14500.%E2%80%85테트로미노/테트로미노.py)|
 |백준|Gold|[소형기관차](./백준/Gold/2616.%E2%80%85소형기관차/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="소형기관차.py" />](./백준/Gold/2616.%E2%80%85소형기관차/소형기관차.py)|
 |백준|Gold|[앱](./백준/Gold/7579.%E2%80%85앱/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="앱.py" />](./백준/Gold/7579.%E2%80%85앱/앱.py)|
+|백준|Gold|[빵집](./백준/Gold/3109.%E2%80%85빵집/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="빵집.py" />](./백준/Gold/3109.%E2%80%85빵집/빵집.py)|
+|백준|Gold|[토마토](./백준/Gold/7569.%E2%80%85토마토/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="토마토.py" />](./백준/Gold/7569.%E2%80%85토마토/토마토.py)|
 |백준|Gold|[뮤탈리스크](./백준/Gold/12869.%E2%80%85뮤탈리스크/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="뮤탈리스크.py" />](./백준/Gold/12869.%E2%80%85뮤탈리스크/뮤탈리스크.py)|
 |백준|Gold|[다리 만들기 2](./백준/Gold/17472.%E2%80%85다리%E2%80%85만들기%E2%80%852/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="다리 만들기 2.py" />](./백준/Gold/17472.%E2%80%85다리%E2%80%85만들기%E2%80%852/다리%E2%80%85만들기%E2%80%852.py)|
 |백준|Gold|[탈출](./백준/Gold/3055.%E2%80%85탈출/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="탈출.py" />](./백준/Gold/3055.%E2%80%85탈출/탈출.py)|
@@ -136,6 +148,7 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Gold|[물통](./백준/Gold/2251.%E2%80%85물통/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="물통.py" />](./백준/Gold/2251.%E2%80%85물통/물통.py)|
 |백준|Gold|[보물섬](./백준/Gold/2589.%E2%80%85보물섬/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="보물섬.py" />](./백준/Gold/2589.%E2%80%85보물섬/보물섬.py)|
 |백준|Gold|[소문난 칠공주](./백준/Gold/1941.%E2%80%85소문난%E2%80%85칠공주/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="소문난 칠공주.py" />](./백준/Gold/1941.%E2%80%85소문난%E2%80%85칠공주/소문난%E2%80%85칠공주.py)|
+|백준|Gold|[불](./백준/Gold/5427.%E2%80%85불/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="불.py" />](./백준/Gold/5427.%E2%80%85불/불.py)|
 |백준|Gold|[나무 재테크](./백준/Gold/16235.%E2%80%85나무%E2%80%85재테크/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="나무 재테크.py" />](./백준/Gold/16235.%E2%80%85나무%E2%80%85재테크/나무%E2%80%85재테크.py)|
 |백준|Gold|[다리 만들기](./백준/Gold/2146.%E2%80%85다리%E2%80%85만들기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="다리 만들기.py" />](./백준/Gold/2146.%E2%80%85다리%E2%80%85만들기/다리%E2%80%85만들기.py)|
 |백준|Gold|[별 찍기 － 10](./백준/Gold/2447.%E2%80%85별%E2%80%85찍기%E2%80%85－%E2%80%8510/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="별 찍기 － 10.c" />](./백준/Gold/2447.%E2%80%85별%E2%80%85찍기%E2%80%85－%E2%80%8510/별%E2%80%85찍기%E2%80%85－%E2%80%8510.c)|
@@ -155,6 +168,7 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Gold|[괄호](./백준/Gold/10422.%E2%80%85괄호/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="괄호.py" />](./백준/Gold/10422.%E2%80%85괄호/괄호.py)|
 |백준|Gold|[피아의 아틀리에 ～신비한 대회의 연금술사～](./백준/Gold/15898.%E2%80%85피아의%E2%80%85아틀리에%E2%80%85～신비한%E2%80%85대회의%E2%80%85연금술사～/README.md)             |[<img src=./icons/c.png width="20" height="20" alt="피아의 아틀리에 ～신비한 대회의 연금술사～.c" />](./백준/Gold/15898.%E2%80%85피아의%E2%80%85아틀리에%E2%80%85～신비한%E2%80%85대회의%E2%80%85연금술사～/피아의%E2%80%85아틀리에%E2%80%85～신비한%E2%80%85대회의%E2%80%85연금술사～.c)|
 |백준|Gold|[로봇](./백준/Gold/1726.%E2%80%85로봇/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="로봇.py" />](./백준/Gold/1726.%E2%80%85로봇/로봇.py)|
+|백준|Gold|[미로 탈출](./백준/Gold/14923.%E2%80%85미로%E2%80%85탈출/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="미로 탈출.py" />](./백준/Gold/14923.%E2%80%85미로%E2%80%85탈출/미로%E2%80%85탈출.py)|
 |백준|Platinum|[백조의 호수](./백준/Platinum/3197.%E2%80%85백조의%E2%80%85호수/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="백조의 호수.py" />](./백준/Platinum/3197.%E2%80%85백조의%E2%80%85호수/백조의%E2%80%85호수.py)|
 |백준|Platinum|[집배원 한상덕](./백준/Platinum/2842.%E2%80%85집배원%E2%80%85한상덕/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="집배원 한상덕.py" />](./백준/Platinum/2842.%E2%80%85집배원%E2%80%85한상덕/집배원%E2%80%85한상덕.py)|
 |백준|Platinum|[큐빙](./백준/Platinum/5373.%E2%80%85큐빙/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="큐빙.py" />](./백준/Platinum/5373.%E2%80%85큐빙/큐빙.py)|

@@ -2,6 +2,7 @@
   "files.associations": {
     "iostream": "cpp",
     "list": "cpp",
-    "queue": "cpp"
+    "queue": "cpp",
+    "unordered_map": "cpp"
   }
 }

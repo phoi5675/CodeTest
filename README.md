@@ -107,6 +107,7 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Gold|[감시](./백준/Gold/15683.%E2%80%85감시/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="감시.py" />](./백준/Gold/15683.%E2%80%85감시/감시.py)|
 |백준|Gold|[뱀](./백준/Gold/3190.%E2%80%85뱀/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="뱀.py" />](./백준/Gold/3190.%E2%80%85뱀/뱀.py)|
 |백준|Gold|[톱니바퀴](./백준/Gold/14891.%E2%80%85톱니바퀴/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="톱니바퀴.py" />](./백준/Gold/14891.%E2%80%85톱니바퀴/톱니바퀴.py)|
+|백준|Gold|[벽 부수고 이동하기 2](./백준/Gold/14442.%E2%80%85벽%E2%80%85부수고%E2%80%85이동하기%E2%80%852/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="벽 부수고 이동하기 2.py" />](./백준/Gold/14442.%E2%80%85벽%E2%80%85부수고%E2%80%85이동하기%E2%80%852/벽%E2%80%85부수고%E2%80%85이동하기%E2%80%852.py)|
 |백준|Gold|[연구소](./백준/Gold/14502.%E2%80%85연구소/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="연구소.py" />](./백준/Gold/14502.%E2%80%85연구소/연구소.py)|
 |백준|Gold|[Strahler 순서](./백준/Gold/9470.%E2%80%85Strahler%E2%80%85순서/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="Strahler 순서.py" />](./백준/Gold/9470.%E2%80%85Strahler%E2%80%85순서/Strahler%E2%80%85순서.py)|
 |백준|Gold|[사다리 조작](./백준/Gold/15684.%E2%80%85사다리%E2%80%85조작/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="사다리 조작.py" />](./백준/Gold/15684.%E2%80%85사다리%E2%80%85조작/사다리%E2%80%85조작.py)|

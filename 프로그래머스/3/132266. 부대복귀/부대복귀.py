@@ -1,30 +1,11 @@
-from typing import *
-from collections import deque, defaultdict
+#include <stdio.h>
+#include <stdbool.h>
+#include <stdlib.h>
 
-def solution(n: int, roads: List[List[int]], sources: List[int], destination: int):
-    answer = []
-    q: Deque[Tuple[int, int]] = deque()
-    visited: List[bool] = [False] * (n + 1)
-    dist: List[int] = [-1] * (n + 1)
-    graph: DefaultDict[int, List[int]] = defaultdict(list)
-    
-    for (src, dst) in roads:
-        graph[src].append(dst)
-        graph[dst].append(src)
-        
-    dist[destination] = 0
-    q.append((destination, 0))
-    visited[destination] = True
-    
-    while q:
-        cur, length = q.popleft()
-        
-        for edge in graph[cur]:
-            if not visited[edge]:
-                q.append((edge, length + 1))
-                dist[edge] = length + 1
-                visited[edge] = True
-    for src in sources:
-        answer.append(dist[src])
-    
-    return answer
+// roads_rows는 2차원 배열 roads의 행 길이, roads_cols는 2차원 배열 roads의 열 길이입니다.
+// sources_len은 배열 sources의 길이입니다.
+int* solution(int n, int** roads, size_t roads_rows, size_t roads_cols, int sources[], size_t sources_len, int destination) {
+    // return 값은 malloc 등 동적 할당을 사용해주세요. 할당 길이는 상황에 맞게 변경해주세요.
+    int* answer = (int*)malloc(1);
+    return answer;
+}

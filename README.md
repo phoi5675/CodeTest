@@ -179,6 +179,11 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Platinum|[큐빙](./백준/Platinum/5373.%E2%80%85큐빙/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="큐빙.py" />](./백준/Platinum/5373.%E2%80%85큐빙/큐빙.py)|
 |백준|Platinum|[달리기](./백준/Platinum/16930.%E2%80%85달리기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="달리기.py" />](./백준/Platinum/16930.%E2%80%85달리기/달리기.py)|
 |프로그래머스|3|[여행경로](./프로그래머스/3/43164.%E2%80%85여행경로/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="여행경로.py" />](./프로그래머스/3/43164.%E2%80%85여행경로/여행경로.py)|
+|프로그래머스|3|[단어 변환](./프로그래머스/3/43163.%E2%80%85단어%E2%80%85변환/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="단어 변환.py" />](./프로그래머스/3/43163.%E2%80%85단어%E2%80%85변환/단어%E2%80%85변환.py)|
+|프로그래머스|3|[정수 삼각형](./프로그래머스/3/43105.%E2%80%85정수%E2%80%85삼각형/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="정수 삼각형.py" />](./프로그래머스/3/43105.%E2%80%85정수%E2%80%85삼각형/정수%E2%80%85삼각형.py)|
 |프로그래머스|3|[섬 연결하기](./프로그래머스/3/42861.%E2%80%85섬%E2%80%85연결하기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="섬 연결하기.py" />](./프로그래머스/3/42861.%E2%80%85섬%E2%80%85연결하기/섬%E2%80%85연결하기.py)|
+|프로그래머스|3|[부대복귀](./프로그래머스/3/132266.%E2%80%85부대복귀/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="부대복귀.py" />](./프로그래머스/3/132266.%E2%80%85부대복귀/부대복귀.py)|
+|프로그래머스|3|[야근 지수](./프로그래머스/3/12927.%E2%80%85야근%E2%80%85지수/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="야근 지수.py" />](./프로그래머스/3/12927.%E2%80%85야근%E2%80%85지수/야근%E2%80%85지수.py)|
+|프로그래머스|2|[게임 맵 최단거리](./프로그래머스/2/1844.%E2%80%85게임%E2%80%85맵%E2%80%85최단거리/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="게임 맵 최단거리.py" />](./프로그래머스/2/1844.%E2%80%85게임%E2%80%85맵%E2%80%85최단거리/게임%E2%80%85맵%E2%80%85최단거리.py)|
 |프로그래머스|lv3|[가장 먼 노드](./프로그래머스/lv3/49189.%E2%80%85가장%E2%80%85먼%E2%80%85노드/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="가장 먼 노드.py" />](./프로그래머스/lv3/49189.%E2%80%85가장%E2%80%85먼%E2%80%85노드/가장%E2%80%85먼%E2%80%85노드.py)|
 |프로그래머스|lv3|[네트워크](./프로그래머스/lv3/43162.%E2%80%85네트워크/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="네트워크.py" />](./프로그래머스/lv3/43162.%E2%80%85네트워크/네트워크.py)|

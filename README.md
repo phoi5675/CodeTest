@@ -180,6 +180,7 @@ Automatically pushed by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub
 |백준|Platinum|[달리기](./백준/Platinum/16930.%E2%80%85달리기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="달리기.py" />](./백준/Platinum/16930.%E2%80%85달리기/달리기.py)|
 |프로그래머스|3|[여행경로](./프로그래머스/3/43164.%E2%80%85여행경로/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="여행경로.py" />](./프로그래머스/3/43164.%E2%80%85여행경로/여행경로.py)|
 |프로그래머스|3|[단어 변환](./프로그래머스/3/43163.%E2%80%85단어%E2%80%85변환/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="단어 변환.py" />](./프로그래머스/3/43163.%E2%80%85단어%E2%80%85변환/단어%E2%80%85변환.py)|
+|프로그래머스|3|[아이템 줍기](./프로그래머스/3/87694.%E2%80%85아이템%E2%80%85줍기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="아이템 줍기.py" />](./프로그래머스/3/87694.%E2%80%85아이템%E2%80%85줍기/아이템%E2%80%85줍기.py)|
 |프로그래머스|3|[정수 삼각형](./프로그래머스/3/43105.%E2%80%85정수%E2%80%85삼각형/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="정수 삼각형.py" />](./프로그래머스/3/43105.%E2%80%85정수%E2%80%85삼각형/정수%E2%80%85삼각형.py)|
 |프로그래머스|3|[섬 연결하기](./프로그래머스/3/42861.%E2%80%85섬%E2%80%85연결하기/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="섬 연결하기.py" />](./프로그래머스/3/42861.%E2%80%85섬%E2%80%85연결하기/섬%E2%80%85연결하기.py)|
 |프로그래머스|3|[부대복귀](./프로그래머스/3/132266.%E2%80%85부대복귀/README.md)             |[<img src=./icons/py.png width="20" height="20" alt="부대복귀.py" />](./프로그래머스/3/132266.%E2%80%85부대복귀/부대복귀.py)|
